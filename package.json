@@ -18,6 +18,7 @@
   "homepage": "https://github.com/hiteshraneheady/node-app#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "heroku": "^7.22.9",
     "mocha": "^1.21.5",
     "supertest": "^0.13.0"
   }
